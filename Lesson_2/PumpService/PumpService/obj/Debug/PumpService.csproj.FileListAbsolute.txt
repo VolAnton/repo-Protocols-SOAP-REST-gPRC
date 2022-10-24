@@ -1,0 +1,7 @@
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpService\bin\PumpService.dll.config
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpService\bin\PumpService.dll
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpService\bin\PumpService.pdb
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpService\obj\Debug\PumpService.csproj.AssemblyReference.cache
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpService\obj\Debug\PumpService.csproj.CoreCompileInputs.cache
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpService\obj\Debug\PumpService.dll
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpService\obj\Debug\PumpService.pdb

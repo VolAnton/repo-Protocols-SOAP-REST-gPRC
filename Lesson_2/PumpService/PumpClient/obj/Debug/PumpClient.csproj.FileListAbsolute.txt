@@ -1,0 +1,8 @@
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpClient\bin\Debug\PumpClient.exe.config
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpClient\bin\Debug\PumpClient.exe
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpClient\bin\Debug\PumpClient.pdb
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpClient\obj\Debug\PumpClient.csproj.AssemblyReference.cache
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpClient\obj\Debug\PumpClient.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpClient\obj\Debug\PumpClient.csproj.CoreCompileInputs.cache
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpClient\obj\Debug\PumpClient.exe
+D:\Учеба\GB_Protocols-SOAP-REST-gPRC\Lesson_2\PumpService\PumpClient\obj\Debug\PumpClient.pdb
